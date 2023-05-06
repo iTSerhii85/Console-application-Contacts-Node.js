@@ -14,7 +14,7 @@ To use the application, you must enter the following commands in the console.
   or
 - `node index -a list`
 
-![Screenshot](./img/list.png)
+  ![Screenshot](https://i.ibb.co/jDLM6Dc/list.png)
 
 ---
 
@@ -24,7 +24,7 @@ To use the application, you must enter the following commands in the console.
   or
 - `node index -a get -i 05olLMgyVQdWRwgKfg5J6`
 
-![Screenshot](./img/get.png)
+  ![Screenshot](https://i.ibb.co/nfzx5Dy/get.png)
 
 ---
 
@@ -34,7 +34,7 @@ To use the application, you must enter the following commands in the console.
   or
 - `node index -a add -n Mango -e mango@gmail.com -p 322-22-22`
 
-![Screenshot](./img/add.png)
+  ![Screenshot](https://i.ibb.co/WB37t8m/add.png)
 
 ---
 
@@ -44,8 +44,4 @@ To use the application, you must enter the following commands in the console.
   or
 - `node index -a remove -i qdggE76Jtbfd9eWJHrssH`
 
-![Screenshot](./img/delete.png)
-
----
-
-[Ссылка на скриншоты](http//)
+  ![Screenshot](https://i.ibb.co/6nmq8CQ/delete.png)
